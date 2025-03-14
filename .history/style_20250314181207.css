@@ -11,8 +11,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    min-width: 380px;
-    padding: 50px;
 }
 
 .game-container {
@@ -126,5 +124,4 @@ button:hover {
 
 .hidden {
     display: none;
-    
 }

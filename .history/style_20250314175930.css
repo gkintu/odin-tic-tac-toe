@@ -11,8 +11,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    min-width: 380px;
-    padding: 50px;
 }
 
 .game-container {
@@ -78,7 +76,6 @@ button:hover {
     margin-bottom: 20px;
     color: #333;
     min-height: 30px;
-    margin: 10px 0px;
 }
 
 .board {
@@ -112,7 +109,7 @@ button:hover {
 }
 
 .cell.o {
-    color: #4db452
+    color: #5dd67173
 }
 
 #restart-button {
@@ -124,7 +121,3 @@ button:hover {
     background-color: #56a05a;
 }
 
-.hidden {
-    display: none;
-    
-}
